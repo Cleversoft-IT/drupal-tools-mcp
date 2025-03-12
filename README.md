@@ -2,6 +2,10 @@
 
 A Model Context Protocol server
 
+<a href="https://glama.ai/mcp/servers/xhqtor5rub">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/xhqtor5rub/badge" alt="Drupal-Modules-Server MCP server" />
+</a>
+
 This is a TypeScript-based MCP server that implements a simple notes system. It demonstrates core MCP concepts by providing:
 
 - Resources representing text notes with URIs and metadata
